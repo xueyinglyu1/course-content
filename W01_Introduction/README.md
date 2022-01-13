@@ -1,6 +1,6 @@
 # Week 1 - Introduction
 
-## Student notebooks (due Monady 01/17 @ 1pm)
+## Student notebooks (due Tuesday 01/18 @ noon ET)
 
 |   | Run | View |
 | - | --- | ---- |
