@@ -1,5 +1,11 @@
 # Week 2 - Deep Linear Networks
 
+## Fixes/clarifications added after initial posting
+- We have clarified a few aspects in W2D1, Section 'Example: A small Compute Graph' based on the Slack discussion (mainly: use pointwise multiplication and MSE loss)
+- The Airtable form for HW2 has the right pods now
+- Two errors in Exercise 5 in W2D2 have been updated (either make a copy of the new worksheet or replace "preds = modelSVD(inputs, params)" with "preds = model(inputs)" and "loss = criterion(preds)" with "loss = criterion(preds, targets)")
+- We made minor clarifications in quiz questions in both W2D1 and W2D2 (the questions itself didn't change, no need to resubmit if you have already answered the initial version)
+
 ## Student notebooks (due Tuesday 01/25 @ noon ET)
 
 |   | Run | View |
