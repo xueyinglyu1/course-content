@@ -1,4 +1,4 @@
-# Week 3 - Multi-layer Perceptrons
+# Week 3 - Multi-Layer Perceptrons
 
 ## Fixes/clarifications added after initial posting
 - 
