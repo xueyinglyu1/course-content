@@ -3,6 +3,10 @@
 ## Fixes/clarifications added after initial posting
 - 
 
+## Lecture Recording
+
+[ecture Week 3](https://www.youtube.com/watch?v=bT_Etw6ERyU)
+
 ## Student notebooks (due Tuesday 02/01 @ noon ET)
 
 |   | Run | View |
