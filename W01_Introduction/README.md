@@ -1,5 +1,9 @@
 # Week 1 - Introduction
 
+## Lecture Recording
+
+[![Lecture Week 1](https://www.youtube.com/watch?v=Ac_Gbb-jIZo)]
+
 ## Student notebooks (due Tuesday 01/18 @ noon ET)
 
 |   | Run | View |
