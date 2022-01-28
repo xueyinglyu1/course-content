@@ -6,6 +6,10 @@
 - Two errors in Exercise 5 in W2D2 have been updated (either make a copy of the new worksheet or replace "preds = modelSVD(inputs, params)" with "preds = model(inputs)" and "loss = criterion(preds)" with "loss = criterion(preds, targets)")
 - We made minor clarifications in quiz questions in both W2D1 and W2D2 (the questions itself didn't change, no need to resubmit if you have already answered the initial version)
 
+## Lecture Recording
+
+[Lecture Week 2](https://www.youtube.com/watch?v=0HNE91v4uco)
+
 ## Student notebooks (due Tuesday 01/25 @ noon ET)
 
 |   | Run | View |
