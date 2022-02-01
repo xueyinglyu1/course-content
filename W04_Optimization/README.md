@@ -1,4 +1,4 @@
-# Week 3 - Multi-Layer Perceptrons
+# Week 4 - Optimization
 
 ## Fixes/clarifications added after initial posting
 
@@ -15,6 +15,3 @@
 ## Homework (due Tuesday 02/08 @ noon ET)
 |   | Run | View |
 | - | --- | ---- |
-| Homework | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CIS-522/course-content/blob/main/W04_Optimization/students/CIS_522_W4_Homework.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/CIS-522/course-content/blob/main/W04_Optimization/students/CIS_522_W3_Homework.ipynb?flush_cache=true) |
-
-
