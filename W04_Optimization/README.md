@@ -1,11 +1,8 @@
 # Week 3 - Multi-Layer Perceptrons
 
 ## Fixes/clarifications added after initial posting
-- 
 
 ## Lecture Recording
-
-[Lecture Week 3](https://www.youtube.com/watch?v=bT_Etw6ERyU)
 
 ## Student notebooks (due Tuesday 02/08 @ noon ET)
 
