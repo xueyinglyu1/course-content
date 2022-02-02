@@ -4,6 +4,8 @@
 
 ## Lecture Recording
 
+[Lecture 4 Recording](https://www.youtube.com/watch?v=olECHijGZ_g)
+
 ## Student notebooks (due Tuesday 02/08 @ noon ET)
 
 |   | Run | View |
