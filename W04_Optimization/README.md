@@ -1,6 +1,8 @@
 # Week 4 - Optimization
 
 ## Fixes/clarifications added after initial posting
+- Fixed issue where " and + signs weren't correctly parsed in the Airtable form
+- Fixed an issue in W4D2 Section in Exercise 4 regarding the accuracy calculation
 
 ## Lecture Recording
 
