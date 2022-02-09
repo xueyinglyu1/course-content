@@ -5,7 +5,8 @@
 
 ## Lecture Recording
 
-[Lecture 5 Recording](https://www.youtube.com/watch?v=olECHijGZ_g)
+Upload will follow shortly, use this link for now:
+https://upenn.zoom.us/rec/share/y3sUe6EHxdP8BFrsQWJesRHuEfUEvjZbE7ABCSodkWKB5HD5kUnGewG4QSviW9if.yOilODkaw8Df7xHf (Passcode: t9=X^3.D)
 
 ## Student notebooks (due Tuesday 02/15 @ noon ET)
 
