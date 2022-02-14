@@ -1,7 +1,7 @@
 # Week 5 - Regularization
 
 ## Fixes/clarifications added after initial posting
-
+Issues with variable names were addressed in Part 2. The questions will now be discussed in the pod.
 
 ## Lecture Recording
 
