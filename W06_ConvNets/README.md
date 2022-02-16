@@ -4,7 +4,7 @@
 
 
 ## Lecture Recording
-
+https://upenn.zoom.us/rec/share/II82DjfTsbHj_e5n_WDiHqobgriOIolARPqHrPX3i_BAbzrTiwkIGC6wGbth3tIk.1-mLwUdSViNb3h4N?startTime=1644944661000 (Passcode: 8@7sY!nj)
 
 ## Student notebooks (due Tuesday 02/22 @ noon ET)
 
