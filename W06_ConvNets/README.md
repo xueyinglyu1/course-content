@@ -1,7 +1,7 @@
 # Week 6 - ConvNets
 
 ## Fixes/clarifications added after initial posting
-- Deleted part 3 of the homework workbook
+- 
 
 ## Lecture Recording
 https://upenn.zoom.us/rec/share/II82DjfTsbHj_e5n_WDiHqobgriOIolARPqHrPX3i_BAbzrTiwkIGC6wGbth3tIk.1-mLwUdSViNb3h4N?startTime=1644944661000 (Passcode: 8@7sY!nj)
