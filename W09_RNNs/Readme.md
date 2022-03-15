@@ -6,6 +6,7 @@
 
 ## Lecture Recording
 
+https://www.youtube.com/watch?v=g1SSPWXRVWE
 
 ## Student notebooks (due Tuesday 03/22 @ noon ET)
 
