@@ -5,7 +5,7 @@
 
 ## Lecture Recording
 
-https://www.youtube.com/watch?v=g1SSPWXRVWE
+https://upenn.zoom.us/rec/share/3K42ouR_iV1L-WIm2gGn0ts993oAtHVOkaIs4hdy3Z1DpUuAkPAr48zaRhzOmOHc.LV-wSx5KpY0yo8xk Passcode: MG#6MWW$
 
 ## Student notebooks (due Wednesday 03/23 @ 11:59pm ET)
 
