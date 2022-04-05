@@ -8,7 +8,7 @@
 
 
 
-## Student notebooks (due Wednesday 04/12 @ noon ET)
+## Student notebooks (due Tuesday 04/12 @ noon ET)
 
 |   | Run | View |
 | - | --- | ---- |
