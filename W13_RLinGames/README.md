@@ -1,11 +1,7 @@
 
-# Week 12 - RL
+# Week 13 - RLinGames
 
 ## Fixes/clarifications added after initial posting
-
-
-## Lecture Recording
-
 
 
 ## Student notebooks (due Friday 04/22 @ 11:59pm ET)
