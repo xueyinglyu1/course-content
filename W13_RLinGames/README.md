@@ -4,7 +4,7 @@
 ## Fixes/clarifications added after initial posting
 
 
-## Student notebooks (due Friday 04/22 @ 11:59pm ET)
+## Student notebooks (due Friday 04/27 @ 11:59pm ET)
 
 |   | Run | View |
 | - | --- | ---- |
